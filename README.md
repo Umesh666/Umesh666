@@ -15,5 +15,5 @@
 - Student Management Database
 
 📫 Reach me:
-- LinkedIn
-- Portfolio website
+- LinkedIn:https://www.linkedin.com/in/umeshjetti/
+- Portfolio website:https://umeshjetti-portfolio.vercel.app/
