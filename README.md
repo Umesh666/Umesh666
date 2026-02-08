@@ -1,12 +1,19 @@
-### Hi there 👋
+👋 Hi, I'm Umesh
 
-<!--
-**Umesh666/Umesh666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Graduate Student @ Western Michigan University  
+💻 IT Support | Backend | Databases | LLMs  
 
-Here are some ideas to get you started:
--->
+🔧 Tech Stack:
+- Python, JavaScript, SQL
+- PostgreSQL, MongoDB
+- Linux, Windows, macOS
+- Docker, Git, FastAPI
 
-- 🔭 I’m currently working on deep learning.
-- 🌱 I’m currently pursuing my Masters
-- I'm from banglore, India
-- i have graduated in the year 2023 from SDM College of engineering.
+📌 Featured Projects:
+- Help Desk Ticketing System
+- Internal LLM Chatbot
+- Student Management Database
+
+📫 Reach me:
+- LinkedIn
+- Portfolio website
